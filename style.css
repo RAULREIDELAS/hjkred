@@ -11,12 +11,12 @@ body
 }
 
 
-h1#
+h1#especificacoes
 {   
     background-image: linear-gradient(270deg, green yellow );
     background-color: aqua;
     color: black;
-    font-size: 30pt;
+    font-size: 15pt;
     font-family:Arial;
     text-align: center;
 }
