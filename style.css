@@ -4,7 +4,7 @@
 h1
 {   
     background-image: linear-gradient(270deg, red, yellow );
-    background-color: aqua;
+
     color: blue;
     font-size: 30pt;
     font-family:Arial;
@@ -13,7 +13,7 @@ h1
 H2
 {   
     background-image: linear-gradient(270deg, red, yellow );
-    background-color: aqua;
+
     color: red;
     font-size: 20pt;
     font-family:Arial;
