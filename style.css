@@ -1,7 +1,8 @@
 body{
   font-family: arial;
 }
-title{   
+h1
+{   
     background-image: linear-gradient(270deg, red, yellow );
     background-color: aqua;
     color: blue;
@@ -9,7 +10,7 @@ title{
     font-family:Arial;
     text-align: center;
 }
-H1
+H2
 {   
     background-image: linear-gradient(270deg, red, yellow );
     background-color: aqua;
